@@ -263,8 +263,8 @@ export default function Portfolio() {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-lg text-slate-400 mb-12 max-w-2xl mx-auto leading-relaxed"
           >
-            我专注于前沿的具身智能与AI产品设计领域，致力于将算法转化为可感知、可交互的智能实体。
-            通过跨界整合技术与设计，创造真正有价值的AI产品体验。
+            致力于推动具身智能与AI产品设计的前沿探索，以深度技术洞察与创新设计思维，
+            构建连接虚拟智能与物理世界的桥梁，创造具有变革意义的智能产品体验。
           </motion.p>
           <motion.div
             initial={{ opacity: 0, y: 30 }}
